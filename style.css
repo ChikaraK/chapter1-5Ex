@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.main-visual{
+	width:auto;
+}
+.main-img1{
+	background-image: url(img/box1.jpg);
+	width: auto;
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+}
+.main-img2{
+	background-image: url(img/box2.jpg);
+	width: auto;
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+}
+.main-img3{
+	background-image: url(img/box3.jpg);
+	width: auto;
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+}
+.main-img4{
+	background-image: url(img/box4.jpg);
+	width: auto;
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+}
